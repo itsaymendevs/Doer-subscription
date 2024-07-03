@@ -1,0 +1,23 @@
+.theme--color {
+    color: #f7941d !important;
+}
+
+a.btn:before,
+.btn:before,
+a.btn-link:before,
+.btn-link:before,
+button:before {
+    background: #f7941d;
+}
+
+.hero-main-slider .slide-titles .title:after {
+    background: #f7941d;
+}
+
+.preloader .spinner.spinner-line {
+    background: #f7941d;
+}
+
+.logo--invert {
+    filter: brightness(0) invert(1);
+}
